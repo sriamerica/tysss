@@ -6,8 +6,7 @@ public class India1Test
 	{
 		System.out.println("Hi india1");
 		System.out.println("Hi india1");
-		System.out.println("Hi india1");
-		System.out.println("Hi india1");
+	
 		
 		
 		
